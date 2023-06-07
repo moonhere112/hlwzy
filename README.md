@@ -16,7 +16,7 @@ body {
   margin: 0 auto;
   padding: 20px;
   border-radius: 5px; 
-  background: rgba(255, 174, 189, 0.8);
+  background: rgba(229, 184, 125, 0.8);
   border: 1px solid #ddd;
 }
 

@@ -8,7 +8,7 @@
 </head>
  <style>
 body {
-  background: url('background.jpg') no-repeat center center fixed;
+  background: url('zh1.jpg') no-repeat center center fixed;
   background-size: cover;
   background-color: rgba(255, 255, 255, 0.8); 
 }

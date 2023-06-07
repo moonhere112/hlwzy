@@ -64,10 +64,11 @@
      
   
       </ul>
-         <a herf="internet.html">点击跳转宿舍管理系统登陆界面</a>
+         
     </div>
   </div>
   
+  <a herf="internet.html">点击跳转宿舍管理系统登陆界面</a>
   
 </body>
 </html>

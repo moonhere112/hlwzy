@@ -12,9 +12,10 @@
   width: 600px;
   margin: 0 auto;
   padding: 20px;
-  border: 1px solid #ddd;
+  
   border-radius: 5px;
-  background: rgba(255, 255, 255, 0.8);
+   
+  background: rgba(255, 174, 189, 0.8);
   border: 1px solid #ddd;
 }
 

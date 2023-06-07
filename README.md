@@ -50,7 +50,7 @@
     </div>
     
     <div class="avatar">
-      <img src="avatar.jpg" alt="用户头像">
+      <img src="imageh.jpg" alt="用户头像">
     </div>
     
     <div class="details">

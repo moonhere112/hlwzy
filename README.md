@@ -57,13 +57,12 @@ body {
     
     <div class="details">
       <ul>
+        <li><b>学院:</b>河北经贸大学经济管理学院</li>
         <li><b>班级:</b> 金融六班</li>
         <li><b>学号:</b> 202192640153</li>
         <li><b>名字:</b> 李子涵</li>
         <li><b>年龄:</b> 20</li>  
-        <li><b>居住地:</b> 江南水乡</li>
-        <li><b>兴趣:</b> 吃糖葫芦,玩弹珠</li>
-        <li><b>梦想:</b> 找到真爱</li>
+        
         
         
         <li><a href="internet.html">点击跳转宿舍管理系统登陆界面</a></li>

@@ -7,14 +7,16 @@
  
 </head>
  <style>
-   
+body {
+  background: url('background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.8); 
+}
 .user-info {
   width: 600px;
   margin: 0 auto;
   padding: 20px;
-  
-  border-radius: 5px;
-   
+  border-radius: 5px; 
   background: rgba(255, 174, 189, 0.8);
   border: 1px solid #ddd;
 }

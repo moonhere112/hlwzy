@@ -61,6 +61,10 @@
         <li><b>居住地:</b> 江南水乡</li>
         <li><b>兴趣:</b> 吃糖葫芦,玩弹珠</li>
         <li><b>梦想:</b> 找到真爱</li>
+        
+        
+        <li><a href="internet.html">点击跳转宿舍管理系统登陆界面</a></li>
+        
      
   
       </ul>
@@ -68,7 +72,6 @@
     </div>
   </div>
   
-  <a herf="internet.html">点击跳转宿舍管理系统登陆界面</a>
   
 </body>
 </html>

@@ -10,7 +10,7 @@
 body {
   background: url('zh1.jpg') no-repeat center center fixed;
   background-size: cover;
-  background-color: rgba(255, 255, 255, 0.8); 
+  background-color: rgba(255, 255, 255, 0.5); 
 }
 .user-info {
   width: 600px;
